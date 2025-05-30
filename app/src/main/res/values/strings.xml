@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ControlGana</string>
+    <string name="selecciona_animal">Selecciona un animal</string>
+    <string name="selecciona_resultado">Selecciona un resultado</string>
+</resources>

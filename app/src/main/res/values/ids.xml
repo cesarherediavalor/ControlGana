@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_nombre1" type="id" />
+    <item name="field_nombre" type="id" />
+    <item name="listaAlimentacion" type="id" />
+    <item name="listaA" type="id" />
+</resources>
